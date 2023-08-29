@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/movies-tanstack/static/css/main.a5a17db5.css",
+    "main.js": "/movies-tanstack/static/js/main.ca44195c.js",
+    "index.html": "/movies-tanstack/index.html",
+    "main.a5a17db5.css.map": "/movies-tanstack/static/css/main.a5a17db5.css.map",
+    "main.ca44195c.js.map": "/movies-tanstack/static/js/main.ca44195c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a5a17db5.css",
+    "static/js/main.ca44195c.js"
+  ]
+}
